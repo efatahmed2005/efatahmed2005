@@ -1,4 +1,4 @@
-![I am efatahmed2005](<iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>)
+![I am efatahmed2005](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)
 
 <h1 align="center">Hi 👋, I'm Efat Ahmed(XyLo)</h1>
 <h3 align="center">Programmer | Web Developer | Speed Learner</h3>
