@@ -25,10 +25,10 @@ Skills: C / C++ / BOOTSTRAP / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.facebook.com/efatahmed.akon" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efatahmed2005" height="30" width="40" /></a>
+<a href="https://www.facebook.com/efatahmed2005" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efatahmed2005" height="30" width="40" /></a>
 <a href="https://x.com/efatahmed2005" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efatahmed2005" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/efat-ahmed-a59090346/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efatahmed2005" height="30" width="40" /></a>
-<a href="https://www.instagram.com/efatahmedakon/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efatahmed2005" height="30" width="40" /></a>
+<a href="https://www.instagram.com/efatahmed2005/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efatahmed2005" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -101,8 +101,8 @@ Skills: C / C++ / BOOTSTRAP / JS / HTML / CSS
 <a href="https://www.facebook.com/tutul181" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  -->
-  <a href="https://www.facebook.com/efatahmed.akon" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efatahmed2005" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/efatahmed2005" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efatahmed2005" height="30" width="40" /></a>
 <a href="https://x.com/efatahmed2005" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efatahmed2005" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/efat-ahmed-a59090346/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efatahmed2005" height="30" width="40" /></a>
-<a href="https://www.instagram.com/efatahmedakon/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efatahmed2005" height="30" width="40" /></a>
+<a href="https://www.instagram.com/efatahmed2005/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efatahmed2005" height="30" width="40" /></a>
 </div>
