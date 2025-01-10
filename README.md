@@ -1,4 +1,4 @@
-![I am efatahmed2005](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)
+![I am efatahmed2005](https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png)
 
 <h1 align="center">Hi 👋, I'm Efat Ahmed(XyLo)</h1>
 <h3 align="center">Programmer | Web Developer | Speed Learner</h3>
