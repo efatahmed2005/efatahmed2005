@@ -6,9 +6,9 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=efatahmed2005&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=efatahmed2005&color=orange)
 
-Skills: C / C++ / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C / C++ / BOOTSTRAP / JS / HTML / CSS
 
 </div>
 
