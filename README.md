@@ -76,13 +76,13 @@ Skills: C / C++ / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/harun181">
+  <a href="https://github.com/efatahmed2005">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efatahmed2005&theme=radical" alt="Efat's GitHub Contribution"/>
   </a>
 </p>
 
 
-![Efat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=efatahmed2005&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Efat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=efatahmed2005&custom_title=Efat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
