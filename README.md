@@ -1,6 +1,6 @@
-![I am efatahmed2005](https://github.com/efatahmed2005/efatahmed2005/blob/main/code.png)
+![I am efatahmed2005](<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />)
 
-<h1 align="center">Hi 👋, I'm Efat Ahmed(XyLo🛜)</h1>
+<h1 align="center">Hi 👋, I'm Efat Ahmed(XyLo)</h1>
 <h3 align="center">Programmer | Web Developer | Speed Learner</h3>
 
 
