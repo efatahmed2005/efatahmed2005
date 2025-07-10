@@ -86,8 +86,8 @@ Skills: C / C++ / BOOTSTRAP / JS / HTML / CSS
 <div align="center">
 <br/>
 
-  <a href="https://www.facebook.com/efatahmed2005" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efatahmed2005" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/efatahmed05" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="efatahmed2005" height="30" width="40" /></a>
 <a href="https://x.com/efatahmed2005" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efatahmed2005" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/efatahmed2005/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efatahmed2005" height="30" width="40" /></a>
-<a href="https://www.instagram.com/efatahmed2005/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efatahmed2005" height="30" width="40" /></a>
+<a href="https://www.instagram.com/efatahmed05/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efatahmed2005" height="30" width="40" /></a>
 </div>
