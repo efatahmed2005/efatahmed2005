@@ -1,7 +1,7 @@
 ![I am efatahmed2005](https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png)
 
 <h1 align="center">Hi 👋, I'm Efat Ahmed(XyLo)</h1>
-<h3 align="center">Programmer | Web Developer | Speed Learner</h3>
+<h3 align="center">Programmer | Speed Learner</h3>
 
 
 <div align="center">
