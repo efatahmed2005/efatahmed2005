@@ -8,17 +8,16 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=efatahmed2005&color=orange)
 
-Skills: C / C++ / BOOTSTRAP / JS / HTML / CSS
+Skills: C / C++ / Pyhton / Javascript
 
 </div>
 
-- 🔭 I’m currently Learning web application development .
 
 - 🌱 I’m currently learning C,C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/efatahmed2005](https://github.com/efatahmed2005)
   
-- 💬 Ask me about **C, C++, HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **C, C++, JS, Pyhton**
 
 - 📫 How to reach me **efatahmed2005@gmail.com**
 
