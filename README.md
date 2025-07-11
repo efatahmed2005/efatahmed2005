@@ -34,7 +34,7 @@ Skills: C / C++ / Pyhton / Javascript
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/python-awesome-yellow)
+![Python](https://img.shields.io/badge/python-yellow)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 <!--![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)-->
 <!--![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
