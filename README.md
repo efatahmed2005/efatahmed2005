@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="300" alt="Efat Ahmed banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Efat Ahmed (aka XyLo)</h1>
+<h1 align="center">Hi 👋, I'm Efat Ahmed (XyLo)</h1>
 <h3 align="center">💻 Programmer | ⚡ Speed Learner | 🚀 Aspiring AI Engineer</h3>
 
 <p align="center">
@@ -11,63 +11,80 @@
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🌱 I’m currently learning **C and C++**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/efatahmed2005)
-- 💬 Ask me about **C, C++, JavaScript, Python**
-- 📫 Reach me at **efatahmed2005@gmail.com**
+- 🎓 Computer Science Student | ICPC Aspirant  
+- 🌱 Currently mastering **C, C++**, and building **AI foundations**  
+- 🧑‍💻 I build mini projects, tools, and competitive coding solutions  
+- 💬 Ask me about **C, C++, JavaScript, Python**  
+- 📫 Email me at **efatahmed2005@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
-  <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,vscode,git,github" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/efatahmed2005">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efatahmed2005&theme=radical" alt="Efat's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=efatahmed2005&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Repositories,PullRequest" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efatahmed2005&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efatahmed2005&bg_color=0f172a&color=38bdf8&line=38bdf8&point=1e293b&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/efatahmed2005?tab=repositories">
+    <img src="https://img.shields.io/badge/📌%20Pinned%20Repositories-Click%20Here-2962FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efatahmed2005&custom_title=Efat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Efat's Activity Graph"/>
-</p>
+---
+
+### 🎯 Achievements & Goals
+
+- ✅ Learned the basics of C, C++
+- 🔄 Practicing algorithms for ICPC
+- 🌐 Contributing to open source (in progress)
+- 📘 Road to mastering **AI, ML, and Deep Learning**
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/efatahmed2005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/efatahmed2005" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/efatahmed05/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/efatahmed05" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/efatahmed2005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/efatahmed2005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/efatahmed05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/efatahmed05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
+### 🔥 Contribution 3D Snake
+
 <p align="center">
-  <a href="https://github.com/efatahmed2005?tab=repositories">
-    <img src="https://img.shields.io/badge/-View%20My%20Projects-2962FF?style=for-the-badge&logo=koding&logoColor=white" />
-  </a>
+  <img src="https://github.com/efatahmed2005/efatahmed2005/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
+---
+
+<p align="center">Built with ❤️ by <strong>Efat Ahmed (XyLo)</strong></p>
