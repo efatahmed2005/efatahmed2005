@@ -79,11 +79,6 @@
 
 ---
 
-### 🔥 Contribution 3D Snake
-
-<p align="center">
-  <img src="https://github.com/efatahmed2005/efatahmed2005/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 ---
 
