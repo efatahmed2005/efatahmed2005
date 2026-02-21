@@ -45,15 +45,6 @@
     alt="GitHub Streak Stats"
   />
 </p>
-### 📈 GitHub Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efatahmed2005&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efatahmed2005&bg_color=0f172a&color=38bdf8&line=38bdf8&point=1e293b&area=true&hide_border=true" />
-</p>
 
 ---
 
