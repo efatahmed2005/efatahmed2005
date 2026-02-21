@@ -36,8 +36,16 @@
 </p>
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
-### 📈 GitHub Stats & Graph
+<!-- GitHub Streak -->
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=efatahmed2005&theme=github-dark-blue&hide_border=true&ring=00e5ff&fire=00b4d8&currStreakLabel=ffffff&sideLabels=00e5ff&dates=cccccc" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+### 📈 GitHub Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efatahmed2005&theme=tokyonight" />
